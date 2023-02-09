@@ -1,5 +1,4 @@
-### Welcome to my github page
-
+### Thanks for checking me out!
 <!--
 **cchaseT42/cchaseT42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
