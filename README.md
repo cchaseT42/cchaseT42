@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a new Software Engineer. I've learned Python, CSS, Javascript, HTML, SQL, Express, Sequelize, Flask, and more. The project I've worked on are in my pinned repositories.
+
+![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchaseT42&show_icons=true&theme=tokyonight)
